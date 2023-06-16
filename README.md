@@ -2,6 +2,8 @@
 
 https://codesandbox.io/p/github/luiscoco/Vue3_Sample25_Composable
 
+https://stackblitz.com/github/luiscoco/Vue3_Sample25_Composable
+
 In Vue 3, composables are a way to organize and reuse code logic in a component-based architecture using the Composition API. Composables are essentially functions that encapsulate reusable logic and can be shared across multiple components.
 
 To demonstrate the usage of composables in Vue 3 with the Composition API, let's create an example. Imagine we want to create a counter component with the ability to increment and decrement the value. We can extract the counter logic into a composable function.
